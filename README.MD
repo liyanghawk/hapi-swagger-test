@@ -1,8 +1,8 @@
-####hapi
-Ŀ�꣺���ĵ���д���ĵ��汾��������ά����
-	������˳������̨������루������Ϊǰ�ڵļٽ�ڣ���
+#### hapi
+目标：简化文档书写和文档版本更新升级维护；
+	独立后端程序，与后台程序分离（可以作为前期的假借口）；
 	
-swagger-ui���ɣ��ĵ�Լ��
-hapi�����ģ����
+swagger-ui集成：文档约束
+hapi：后端模拟器
 
-hapi-swagger�����߼���
+hapi-swagger：两者集成
