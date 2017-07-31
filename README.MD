@@ -6,3 +6,11 @@ swagger-ui集成：文档约束
 hapi：后端模拟器
 
 hapi-swagger：两者集成
+
+#### 安装和启动
+```
+ npm i
+ npm start
+```
+访问测试接口的地址：http://localhost:3000/test
+文档地址：http://localhost:3000/documentation
